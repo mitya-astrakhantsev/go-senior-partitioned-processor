@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quala-dev/go-senior-partitioned-processor/processor"
+	"github.com/mitya-astrakhantsev/go-senior-partitioned-processor/processor"
 )
 
 func TestNewValidatesConfig(t *testing.T) {
