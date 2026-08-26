@@ -1,3 +1,3 @@
-module github.com/quala-dev/go-senior-partitioned-processor
+module github.com/mitya-astrakhantsev/go-senior-partitioned-processor
 
 go 1.24
